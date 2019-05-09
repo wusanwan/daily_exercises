@@ -14,7 +14,7 @@ bot.file_helper.send('上线了！')
 bot.enable_puid()
 
 #图灵bot
-tuling = Tuling(api_key='20fc8df9ff284e4482272c17ff20d0bf')
+tuling = Tuling(api_key='xxxxxxxxxxxxxxxxxxx')
 url_api = 'http://www.tuling123.com/openai/api'
 
 
