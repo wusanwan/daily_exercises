@@ -10,8 +10,8 @@ including polygon scan conversion algorithms: active edge table algo and boundar
 📄homework4.cpp           
 including basic transformations of 2D simple graphics and liang-barsky algo.
 
-📄spongebob.cpp
-a game about spongebob
-
+📄spongebob.cpp                         
+a game about spongebob.                      
+                        
 👇see more in my blog:
 https://www.wusanwan.xyz
