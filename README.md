@@ -1,1 +1,1 @@
-# daily_exercises
+# daily_practices
